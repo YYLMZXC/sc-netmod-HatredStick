@@ -1,7 +1,7 @@
 <HatredStick>
 <ProjectTemplate Name="Project" Guid="85023bf8-1c90-4dd1-9442-e6c13691d078">
         <MemberSubsystemTemplate Name="HatredStickBlockBehavior" Guid="dc0feddf-0001-bcfe-ccdd-abedbadf0000" InheritanceParent="fefb9590-4972-4893-b02a-76063611b745">
-		<Parameter Name="Class" Guid="dc0feddf-0001-bcfe-ccdd-abedbadf0001" Value="Game.SubsystemHatredStickBlockBehavior" Type="string" />
+		<Parameter Name="Class" Guid="dc0feddf-0001-bcfe-ccdd-abedbadf0001" Value="HatredStick.SubsystemHatredStickBlockBehavior" Type="string" />
         </MemberSubsystemTemplate>
 </ProjectTemplate>
 

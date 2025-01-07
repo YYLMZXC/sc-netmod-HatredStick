@@ -3,7 +3,7 @@
 using Engine;
 using Game;
 using TemplatesDatabase;
-namespace Game
+namespace HatredStick
 {
     public class SubsystemHatredStickBlockBehavior : SubsystemBlockBehavior
     {

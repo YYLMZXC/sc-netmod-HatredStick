@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Engine;
 using Engine.Graphics;
 using Game;
-namespace Game
+namespace HatredStick
 {
     public class HatredStickBlock : Block
     {
@@ -18,7 +18,7 @@ namespace Game
             Matrix boneAbsoluteTransform = BlockMesh.GetBoneAbsoluteTransform(model.FindMesh("Stick").ParentBone);
             m_standaloneBlockMesh.AppendModelMeshPart(model.FindMesh("Stick").MeshParts[0], boneAbsoluteTransform * Matrix.CreateTranslation(0f, -0.5f, 0f), false, false, false, false, Color.White);
             base.Initialize();
-            DefaultDescription = "使用棕色/蓝色棍点击生物来获取目标，当获得俩个目标后点击[编辑]按键即可生成仇恨，让这俩个生物进行扭打\n\n模组名: 仇恨之棍\n版本:1.1\n多人君(Multi-Players)\n\n欢迎关注作者的主页(https://b23.tv/ylNCXdp或https://b23.tv/y9aJ1v)";
+            DefaultDescription = "使用棕色/蓝色棍点击生物来获取目标，当获得俩个目标后点击[编辑]按键即可生成仇恨，让这俩个生物进行扭打";
         }
 
         public override IEnumerable<int> GetCreativeValues()
