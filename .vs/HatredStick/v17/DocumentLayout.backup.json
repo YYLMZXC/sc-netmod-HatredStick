@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\HatredStick\\",
+  "WorkspaceRootPath": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C83CE3CB-3BE0-4150-9CF6-91143499159F}|HatredStick.csproj|c:\\users\\yylmzxc\\desktop\\mod-pach\\netmod-dev\\hatredstick\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C83CE3CB-3BE0-4150-9CF6-91143499159F}|HatredStick.csproj|C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\hatredstick\\hatredstickblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83CE3CB-3BE0-4150-9CF6-91143499159F}|HatredStick.csproj|solutionrelative:hatredstick\\hatredstickblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83CE3CB-3BE0-4150-9CF6-91143499159F}|HatredStick.csproj|c:\\users\\yylmzxc\\desktop\\mod-pach\\netmod-dev\\sc-netmod-hatredstick\\hatredstick\\subsystemhatredstickblockbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83CE3CB-3BE0-4150-9CF6-91143499159F}|HatredStick.csproj|solutionrelative:hatredstick\\subsystemhatredstickblockbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83CE3CB-3BE0-4150-9CF6-91143499159F}|HatredStick.csproj|C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C83CE3CB-3BE0-4150-9CF6-91143499159F}|HatredStick.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubsystemHatredStickBlockBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\HatredStick\\SubsystemHatredStickBlockBehavior.cs",
+              "RelativeDocumentMoniker": "HatredStick\\SubsystemHatredStickBlockBehavior.cs",
+              "ToolTip": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\HatredStick\\SubsystemHatredStickBlockBehavior.cs",
+              "RelativeToolTip": "HatredStick\\SubsystemHatredStickBlockBehavior.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:08:35.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HatredStickBlock.cs",
+              "DocumentMoniker": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\HatredStick\\HatredStickBlock.cs",
+              "RelativeDocumentMoniker": "HatredStick\\HatredStickBlock.cs",
+              "ToolTip": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\HatredStick\\HatredStickBlock.cs",
+              "RelativeToolTip": "HatredStick\\HatredStickBlock.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:08:34.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\HatredStick\\Properties\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\HatredStick\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\YYLMZXC\\Desktop\\mod-pach\\netmod-dev\\sc-netmod-HatredStick\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:55:06.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T16:55:06.927Z"
             }
           ]
         }
